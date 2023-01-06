@@ -39,14 +39,14 @@ What kind of API do we want to release, if applicable. Can we integrate it into 
 #### 3.4 Paper
 Can our hypothesis be turned into a paper? What does the evaluation process for such a paper look like? Are we targeting any conferences? Can we release a blog post as well as the paper?
 
-### 4 BigMolecule AI Impact
+### 4. BigMolecule AI Impact
 How does the completion of this project impact long term vision? 
 
 Does this project open new avenues of exploration?
 
 Is this project entering unchartered territory? Do we need subject matter experts we have not consulted before?
 
-### 5 Broader Impacts
+### 5. Broader Impacts
 
 Discuss the broader impacts of this research as a whole. How is the project expected to positively impact materials or chemistry research at large?
 
@@ -54,7 +54,7 @@ Can it contribute to climate neutral products in the near term of in the future?
 
 What kinds of risks, if any, are associated with this project as a whole?
 
-### 6 Resources
+### 6. Resources
 What kinds of resources do we need to complete this project?
 
 What kinds of resources (e.g. GPU hours, RAM, storage) are needed to complete the project?
@@ -62,7 +62,7 @@ What kinds of resources (e.g. GPU hours, RAM, storage) are needed to complete th
 What is a (rough) timeline for this project? Give a break down of ideal timelines. E.g We want to run X experiment by Y date and deliver Z milestone.
 
 
-### 7 Expected Findings
+### 7. Expected Findings
 
 What do we expect to find with this project? Are we aiming to disprove something? What
 kinds of results would be interesting? What kinds of results would require us to pivot this
@@ -78,7 +78,7 @@ Are there approaches, be it more resource intensive, that we can take to achieve
 
 Are certain findings going to be more reproducible than others?
 
-### 8 Preliminary Findings (optional)
+### 8. Preliminary Findings (optional)
 If applicable, what findings have you seen that predict what kinds of results we’ll see. This
 could be other literature or your own experiments. This should be multiple subsections,
 potentially one for each probable outcome of the experiment. A risk analysis is beneficial
