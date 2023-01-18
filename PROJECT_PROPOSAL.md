@@ -4,7 +4,7 @@
 
 ### 1. Abstract
 This is where you will provide a brief outline of 5 - 10 sentences providing motivation to
-this project. How does it fit into the overall BigMolecule AI narrative? Does it bring us closer to new breakthroughs in materials discovery or understanding and modeling molecular systems? Does it improve upon existing work? No need to mention datasets or models directly here yet, we’ll do that later. Focus on grand picture and why we should care about it. State what our hypothesis is.
+this project. How does it fit into the overall AI4M AI narrative? Does it bring us closer to new breakthroughs in materials discovery or understanding and modeling molecular systems? Does it improve upon existing work? No need to mention datasets or models directly here yet, we’ll do that later. Focus on grand picture and why we should care about it. State what our hypothesis is.
 
 ### 2. Introduction and Prior Work
 What literature on similar topics exists in the space if any? A few sentences for each. If any, how does our hypothesis fit into prior literature?
