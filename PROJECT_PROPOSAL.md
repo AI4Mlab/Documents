@@ -33,13 +33,13 @@ What sizes are the models that we hope to release? Give a brief description of a
 
 
 #### 3.3 API
-What kind of API do we want to release, if applicable. Can we integrate it into an existing BigMolecule API? Can we integrate it into a non-BigMolecule API? What kind of documentation are we planning to write? Are we intending to release a documentation website? Do we have a design document? Are we prioritizing modularity or does our experiment not require that?
+What kind of API do we want to release, if applicable. Can we integrate it into an existing AI4M API? Can we integrate it into a non-AI4M API? What kind of documentation are we planning to write? Are we intending to release a documentation website? Do we have a design document? Are we prioritizing modularity or does our experiment not require that?
 
 
 #### 3.4 Paper
 Can our hypothesis be turned into a paper? What does the evaluation process for such a paper look like? Are we targeting any conferences? Can we release a blog post as well as the paper?
 
-### 4. BigMolecule AI Impact
+### 4. AI4M AI Impact
 How does the completion of this project impact long term vision? 
 
 Does this project open new avenues of exploration?
